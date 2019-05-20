@@ -1,4 +1,4 @@
-package guru.springframewrok.jokewebapp.joke.services;
+package guru.springframewrok.joke.services;
 
 public interface JokeService {
 
